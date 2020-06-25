@@ -1,0 +1,7 @@
+{
+    "require": {
+        "linecorp/line-bot-sdk": "^4.3",
+        "google/apiclient": "^2.0",
+        "vlucas/phpdotenv": "^5.0"
+    }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "zoom-meeting-279715",
+  "private_key_id": "78e11e002fffdc403602beadf45f74f8f0c1895f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCgVvBVVc1FIv8B\nnA2zATGOv10XwF3cdlo/jh4UooUTYdBwBVDuD3aPIvyPgbgXw7yDUB6r8NDf/nqd\ned9UaG8dmVxB/Fswc4F0wvoFmHsPDTlIM0L5rytj8m9FS9hOPi+Z8eKWSauMypGo\n5KBfJB87DiXHY21x+AlRY8xGoUmK1UfC4qHMFLqiOGILd2ZOvd4WP7Uq0dpQFoT5\nVwpH2WdSW1eWUjeyLgK+llqE3tm7U46MXAN6Xcmb2aq7XnysvdC4lsR/3DkebcGW\nA9U+a13Rmarj8FnBqyTio7vBNd5LpiaoJ06nFb6B23Nddd9fZph/JT27Gd+9X2mC\nXjIzFrdNAgMBAAECggEADqGwX9ErILZ/V8nCVEX1HEYpPBwhVJd2R9tzskVcaHbi\nGv7ZMkg19Pzn2D6pqn2Bq+f5TI52uSITVWCEOUModKaEjT72oVbBBwMt5qnR/P8j\nbYvD/l32UzIR5lxz+jvhgyZYG4fQgFIR9bwbSGNW+EAjwWy41ZAhZYx6XS2ltOX5\nk1WIJzrO6NtkXyGMOuHckDC64zQkzGoObY1ppXXadXuVPHMOBJ8Emhj7+Wwg9xjn\naIvGMJUXJosmUIp5UECk0AU7YEWZRNeytrgr4E5scqSxroTHyw5e0aTGbHxHp86Q\nR9mUYY6ywqdtLTn1XqTJIjrjn3IqLBWXeV1TwtJV4QKBgQDWkfGIFiZ/m2Jah6vk\noYRdBNTQvwu/xn8Up4xezXSPwq50B3IFZnvWCEQm8lPjteOC17ufzUpGEfOhge05\nC1lQZ3dpYFO83nhULaYpVjCGZRzvXtxOfbKnubqIKMcDdMN5NjOZEGqdhK2UCpS+\nRIhhURWpPBHv1RLVh2twCR3VkQKBgQC/TGsj6J1B6U79HK3kEZmrcYv6Uak1rIGB\n7e6/IaLZhBK8Y7GVFXsd6vfxP7WOvhuBCdLY5+aZv8c40PZq9ZJt1tMPHxA4gx9U\n8pyy7aHHTfXsVKqkj121YnWUihWZR1OuWQYKrjrK+iHJdwBwCNGY7R+d/BjiF4Ym\nOmUb1fC3/QKBgDKaeLv/fVTa8HcpSADDltPZL9eLNtojlhTo7tHs4nCFGV+D4gAk\nC1CO4oPM4rvxSZayCi3F3J5p3WtZmPi7FHVB8YeIkDcawIYZvfZBvW/0qL5LQOnB\n+0BTLQqvkz/dabxMbB7NIFfF0qn3VN0KjJ9m4BTpddF6DtcM+OmTPNYBAoGARBQT\nEP1ocZtxE9zP+ZlV4dCP6y6ClGpm0HF3hKeYx+YbsNWdzhuN7BDB2iY9G6aGLT7s\nvWqSA2dfo9WhzGDGkrZf+EKqyCHJ1bZdk8PDziTtfwSGkfe/dpyqkYkutJTQr/xY\njRaCL9gijAsAqd5JkS3aEaQ0yslqYVJoxyY0+5UCgYB9JR/oz7p4DmjzSIuXdstf\nO6NItK29zfV2RcJWTRHbA1MYOf8vSoMhTHM4MR+0cLaDt29347Uup6781HVIIe+5\nwsCJC9LEgGArpqCibXlVVVkXg9hZkqbBjDjxw85xY5eS1HVg0yutpbDUNEinUk6Z\nwTJdNg74YDGC8pn787loNQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "zoom-meeting@zoom-meeting-279715.iam.gserviceaccount.com",
+  "client_id": "102908804335265853718",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/zoom-meeting%40zoom-meeting-279715.iam.gserviceaccount.com"
+}
