@@ -11,9 +11,9 @@ $dotenv = Dotenv\Dotenv::create(__DIR__);
 $dotenv->load(); //.envが無いとエラーになる
 
 // $channelAccessToken = 'p8gBieEWeWJV4HQn1tHInSRAup5x+aoL3siQwZV9O+Kgya0xJ6xCJn9pdWMWKwsbv+f8hPdp4tzQyC00MV059F8iQtB206aakIKCsMTz7lK5aF2+Ki/v+zo1w3CDKttTfpktfQeGcXGIfnV9N/UknwdB04t89/1O/w1cDnyilFU=';
-$channelAccessToken = getenv("LINEACCESSTOKEN");
+$channelAccessToken = getenv("LINE_ACCESSTOKEN");
 // $channelSecret = 'a42651fbdd73122cac68a8a9a4cc5594';
-$channelSecret = getenv("LINESECRET");
+$channelSecret = getenv("LINE_SECRET");
 $client = new LINEBotTiny($channelAccessToken, $channelSecret);
 foreach ($client->parseEvents() as $event) {
     switch ($event['type']) {
