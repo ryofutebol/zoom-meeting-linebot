@@ -1,5 +1,5 @@
 <?php
-require_once __DIR__.'/vendor/autoload.php';
+// require_once __DIR__.'/vendor/autoload.php';
 require_once('./LINEBotTiny.php'); 
 require_once('./zoom.php');
 require_once('./readonly.php');
