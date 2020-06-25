@@ -1,11 +1,9 @@
 <?php
-// require_once __DIR__.'/vendor/autoload.php';
+require_once __DIR__.'/vendor/autoload.php';
 require_once('./LINEBotTiny.php'); 
 require_once('./zoom.php');
 require_once('./readonly.php');
 require_once('./events.php');
-
-// use Dotenv\Dotenv;
 
 $dotenv = Dotenv\Dotenv::create(__DIR__);
 $dotenv->load(); //.envが無いとエラーになる
