@@ -5,7 +5,7 @@ require_once('./zoom.php');
 require_once('./readonly.php');
 require_once('./events.php');
 
-$dotenv = Dotenv\Dotenv::create(__DIR__);
+$dotenv = Dotenv\Dotenv::createUnsafeImmutable(__DIR__);
 $dotenv->load(); //.envが無いとエラーになる
 
 // $channelAccessToken = 'p8gBieEWeWJV4HQn1tHInSRAup5x+aoL3siQwZV9O+Kgya0xJ6xCJn9pdWMWKwsbv+f8hPdp4tzQyC00MV059F8iQtB206aakIKCsMTz7lK5aF2+Ki/v+zo1w3CDKttTfpktfQeGcXGIfnV9N/UknwdB04t89/1O/w1cDnyilFU=';
